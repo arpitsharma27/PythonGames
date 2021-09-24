@@ -26,10 +26,8 @@ Fun Fact(Shhhhh....)-- Before developing this game, I did not knew how to play R
 This is not actually a game but the way to plot sine and cosine curves.
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-
-**Lessons Learnt by developing Games in Python3:**
+# Lessons Learnt by developing Games in Python3:
 
 Developing these games was just a short term objective. The long term objective was to learn Python3.
 
